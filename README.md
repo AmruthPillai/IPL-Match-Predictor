@@ -7,3 +7,7 @@ I'll be attempting to predict the winner of an IPL match, given two teams (and m
 We're using KNN because technically, I will need a result out of the given set of discrete values. It is more of a classification problem than a regression problem, where I would be prediction values arbitrarily.
 
 Check out the <strong>Jupyter Notebook</strong> (`IPL Match Predictor.ipynb`) for a detailed explanation on how it all works!
+
+## Screenshot
+
+<img src="https://i.imgur.com/aSZh7V2.png" alt="Screenshot" />
